@@ -1,0 +1,106 @@
+body{
+  font-family: futura;
+}
+.container{
+  height: auto;
+  width:auto;
+  border: 1px black solid
+
+}
+.container .row1{
+  height:auto;
+  width: auto;
+}
+.stamp{
+  margin-left: 1160px;
+  margin-top: 20px;
+  border: 1px black solid;
+  height:90px;
+  width: 76px;
+  text-align: center;
+}
+.stamp p {
+  font-size: 13px;
+  margin-top: 5px;;
+
+}
+.row2{
+  font-size: 60px;
+  text-align: center;
+  margin-top: 10px;
+  margin-left: 400px;
+  font-size: 100px;
+}
+.row2 .G{
+  float: left;
+
+}
+
+.row3{
+  font-size: 40px;
+  margin-left: 570px;
+  margin-top: -40px;
+}
+.row4{
+}
+
+.row4 .container2{
+  height: 50px;
+  width: 550px;
+  margin-left: 350px;
+  margin-top: -20px;
+  margin-bottom: 18px;
+  border: 1px black solid;
+  background-color: lightgray;
+}
+.row4 .left{
+  float: left;
+}
+.row4 .left p{
+  margin-left: 20px;
+  background: white;
+  width: 70px;
+  height: 20px;
+  text-align: center;
+}
+
+.row4 .boxes{
+  border: 1px black solid;
+  height: 30px;
+  width: 430px;
+  float: right;
+  margin-right: 10px;
+  margin-top: 10px;
+}
+
+
+
+
+
+
+.row5{
+    width: auto;
+    height: auto;
+}
+.row5 .checkbox1{
+  margin-left: 400px;
+}
+.row5 .checkbox1 .checkbox{
+  font-size: 13px;
+  margin-left: 30px;
+
+}
+.row6{
+  margin-top: 40px;
+  margin-bottom: -40px;
+}
+.row6 p{
+  font-size: 20px;
+  margin-left: 70px;
+}
+.row7 p{
+  color: red;
+  margin-top: 50px;
+  margin-left: 280px;
+  font-size: 30px;
+}
